@@ -104,3 +104,6 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 
 ## RAG Mindmap Generation (Without Internet)
 ![](images/Screenshot2026-06-27064916.png)
+
+## Model Training (Calibration)
+![](images/Screenshot2026-06-27064856.png)
