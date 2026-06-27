@@ -6,6 +6,7 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 ![](images/Screenshot2026-06-27064856.png)
 ## Live vision and AI-Based feedback.
 ![](images/Screenshot2026-06-27065945.png)
+## Chat with AI without Internet (Ollama Local LLM)
 ![](images/Screenshot2026-06-27070103.png)
 ![](images/Screenshot2026-06-27070151.png)
 ![](images/Screenshot2026-06-27070139.png)
