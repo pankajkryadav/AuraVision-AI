@@ -101,3 +101,6 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 4.  **Chat with Aura**: Open the **Aura AI Companion** tab. The chat uses context (your current webcam state and your latest diary sentiment) to talk with you.
 5.  **Review Performance**: View the **Analytics Hub** to observe real-time focus fluctuations and your daily mood frequencies.
 6.  **Analyze Documents**: Navigate to the **PDF Intelligence** tab, upload a PDF, and index it. Generate study notes, view visual mindmaps, or ask specific questions about the document in the local RAG chat.
+
+## RAG Mindmap Generation (Without Internet)
+![](images/Screenshot2026-06-27064916.png)
