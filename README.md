@@ -51,6 +51,8 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 *   **Plotting**: `matplotlib`
 *   **Generative AI**: Ollama Local API (`llama3` or `mistral`)
 *   **PDF Processing**: `pypdf`, `numpy`
+## Database
+![](images/MongoDB_01.png)
 
 ---
 
