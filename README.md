@@ -1,6 +1,7 @@
 ## AuraVision: AI-Driven Cognitive Health & Workspace Analytics Suite (Locally/Without Internet).
 
 AuraVision is a state-of-the-art desktop workspace monitoring and cognitive support application. Built as an advanced final-year academic project, it combines **Computer Vision (CV)**, **Ollama Local LLM's**, **Natural Language Processing (NLP)**, and **Generative AI** in a high-tech dark GUI dashboard to optimize productivity and mental health during study or work sessions.
+## AI-Based Massive Document Analysis(Without Internet). 
 ![](images/Screenshot2026-06-27064856.png)
 ![](images/Screenshot2026-06-27065945.png)
 ![](images/Screenshot2026-06-27070103.png)
