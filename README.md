@@ -53,6 +53,7 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 *   **PDF Processing**: `pypdf`, `numpy`
 ## Database
 ![](images/MongoDB_01.png)
+![](images/MongoDB_02.png)
 
 ---
 
