@@ -106,4 +106,4 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 ![](images/Screenshot2026-06-27064916.png)
 
 ## Model Training (Calibration)
-![](images/Screenshot2026-06-27064856.png)
+![](images/Screenshot2026-06-27070122.png)
