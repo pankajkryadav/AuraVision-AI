@@ -4,7 +4,7 @@ AuraVision is a state-of-the-art desktop workspace monitoring and cognitive supp
 ![](images/Screenshot2026-06-27064856.png)
 ![](images/Screenshot2026-06-27065945.png)
 ![](images/Screenshot2026-06-27070103.png)
-![](images/Screenshot2026-06-27070103.png)
+![](images/Screenshot2026-06-27070151.png)
 
 ---
 
